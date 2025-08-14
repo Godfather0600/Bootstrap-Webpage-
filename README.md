@@ -1,4 +1,4 @@
-<img width="1919" height="1028" alt="Screenshot 2025-08-15 051655" src="https://github.com/user-attachments/assets/51b50c08-b59f-43b4-8cfe-23e385f4b904" />🌿 HTML, CSS & Bootstrap Card Slider Project
+🌿 HTML, CSS & Bootstrap Card Slider Project
 
 A responsive and visually appealing webpage built with HTML, CSS, and Bootstrap, featuring:
 
